@@ -1,0 +1,1 @@
+# RemixのスマコンをGanacheにデプロイしてPythonで動かす
